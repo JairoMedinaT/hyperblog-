@@ -2,15 +2,15 @@ body{
     color: blue;
     text-align: center;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
 #container{
-    width: 70%;
+    width: 80%;
     padding: 1em;
     text-align: left;
-    border: 1px solid red;
+    border: 2px solid red;
     margin: 0 auto;
 }
 
